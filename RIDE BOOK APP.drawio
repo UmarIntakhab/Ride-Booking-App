@@ -1,0 +1,435 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="ldGGh_8FRHW0lrAjYVNl">
+    <mxGraphModel dx="4780" dy="2530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JvuicFKpDqCHILleZ89V-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-1" target="JvuicFKpDqCHILleZ89V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px; color: rgb(255, 0, 0);&quot;&gt;main()&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="395" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-6" target="JvuicFKpDqCHILleZ89V-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-6" target="JvuicFKpDqCHILleZ89V-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-6" value="takes input from user store it in variables" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="320" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-8" target="JvuicFKpDqCHILleZ89V-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-8" value="User object is created by passing these variables." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="440" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-10" target="JvuicFKpDqCHILleZ89V-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-10" target="JvuicFKpDqCHILleZ89V-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-10" target="JvuicFKpDqCHILleZ89V-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-10" target="JvuicFKpDqCHILleZ89V-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-10" target="JvuicFKpDqCHILleZ89V-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-10" target="JvuicFKpDqCHILleZ89V-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-10" value="&lt;font style=&quot;color: rgb(255, 46, 14); font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Menu(User)&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-12" target="JvuicFKpDqCHILleZ89V-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-12" value="1.Book a ride" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-14" target="JvuicFKpDqCHILleZ89V-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-14" value="5.Exit" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="750" as="sourcePoint" />
+            <mxPoint x="225" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="1030" />
+              <mxPoint x="225" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="1030" as="sourcePoint" />
+            <mxPoint x="395" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="1030" />
+              <mxPoint x="415" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-16" value="2.Wallet" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-18" target="JvuicFKpDqCHILleZ89V-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-18" value="4.Payment History" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-21" target="JvuicFKpDqCHILleZ89V-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-21" value="3.Ride history" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-23" value="Exits the booking app" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-25" value="Welcome to ride booking app" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="260" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-28" target="JvuicFKpDqCHILleZ89V-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-28" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 24, 224); font-size: 14px;&quot;&gt;&lt;i&gt;&lt;b&gt;name_validation&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 24, 224); font-size: 14px;&quot;&gt;&lt;i&gt;&lt;b&gt;contact_validation&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 24, 224); font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b&gt;money_validation&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="320" width="265" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-30" target="JvuicFKpDqCHILleZ89V-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-30" value="if the ride is successfully booked the payment history for the user is shown" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="880" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-37" target="JvuicFKpDqCHILleZ89V-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="1010" />
+              <mxPoint x="785" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-37" value="if the ride is successfully booked the Ride history&lt;div&gt;&amp;nbsp;for the user is shown from the history folder&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="960" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-41" target="JvuicFKpDqCHILleZ89V-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-41" value="&lt;i&gt;&lt;font style=&quot;font-size: 16px; color: rgb(255, 16, 175);&quot;&gt;&lt;b&gt;Show_payment_history()&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="880" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-43" target="JvuicFKpDqCHILleZ89V-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-43" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 15px; color: rgb(255, 11, 198);&quot;&gt;Show_ride_history()&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="980" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-49" value="&lt;font style=&quot;color: rgb(31, 6, 255);&quot;&gt;&lt;i&gt;Asks the user to enter a name contact and wallet and validates them based on their req.&lt;/i&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="315" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-51" value="&lt;i&gt;&lt;font style=&quot;color: rgb(49, 8, 255);&quot;&gt;Check the payment history folder&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(49, 8, 255);&quot;&gt;and&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(49, 8, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;return the history if file exists or else prints no payments made yet&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="867.5" width="215" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-53" value="&lt;i&gt;&lt;font style=&quot;color: rgb(49, 8, 255);&quot;&gt;Check the ride history folder and&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(49, 8, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;return the history if file exists or else prints no rides made yet&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="965" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="1030" as="sourcePoint" />
+            <mxPoint x="585" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="1030" />
+              <mxPoint x="585" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-65" target="JvuicFKpDqCHILleZ89V-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-65" value="2.Add Money" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1060" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-67" target="JvuicFKpDqCHILleZ89V-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-67" value="1.view wallet" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1060" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-68" value="If no or wrong input back to menu" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1060" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-69" target="JvuicFKpDqCHILleZ89V-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-69" value="Asks how much to add and add it to the wallet" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1290" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-71" target="JvuicFKpDqCHILleZ89V-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-71" value="&lt;font style=&quot;color: rgb(255, 11, 206); font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;add_money_to_user_wallet&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="1290" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-73" value="&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;further calls a user class method&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;&amp;nbsp;to add money&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="1275" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.703;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-76" target="JvuicFKpDqCHILleZ89V-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="1360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-76" value="shows current wallet balance and asks if the user wants to add money" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="1410" width="375" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-79" target="JvuicFKpDqCHILleZ89V-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-79" value="asks user to select a vehicle&lt;br&gt;Vehicle are uninitialised object stored in a dict" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="820" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-83" target="JvuicFKpDqCHILleZ89V-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-83" value="If vehicle exists" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="920" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-86" target="JvuicFKpDqCHILleZ89V-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-86" value="If vehicle does&lt;div&gt;&amp;nbsp;not exists&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="920" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-87" target="JvuicFKpDqCHILleZ89V-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="1070" />
+              <mxPoint x="155" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-87" value="Loop runs again" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-91" target="JvuicFKpDqCHILleZ89V-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-91" value="ride is selected based on the input(key) and the object(value) is initialised with required arg." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="1050" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-93" target="JvuicFKpDqCHILleZ89V-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-93" target="JvuicFKpDqCHILleZ89V-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-93" value="ride.ride_summary()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="1160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-95" target="JvuicFKpDqCHILleZ89V-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-95" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 8, 238); font-size: 14px;&quot;&gt;ride.ride_summary&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="1160" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-98" value="&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;Shows ride summary before&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;&amp;nbsp;payment depending upon&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;&amp;nbsp;the object created&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="1145" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-100" target="JvuicFKpDqCHILleZ89V-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-100" target="JvuicFKpDqCHILleZ89V-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-100" value="user is asked to book&amp;nbsp; a ride" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="1250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-102" target="JvuicFKpDqCHILleZ89V-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-102" value="if yes" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="1360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-104" target="JvuicFKpDqCHILleZ89V-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-104" value="if no" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="1360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-106" value="Loop breaks and&lt;div&gt;&amp;nbsp;back to menu&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1530" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-108" target="JvuicFKpDqCHILleZ89V-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-108" target="JvuicFKpDqCHILleZ89V-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-108" target="JvuicFKpDqCHILleZ89V-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1265" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-108" value="ride.take_payment()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="1530" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-110" target="JvuicFKpDqCHILleZ89V-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-110" value="returns True" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-395" y="1650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-113" target="JvuicFKpDqCHILleZ89V-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-113" value="returns False" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="1650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-115" target="JvuicFKpDqCHILleZ89V-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1275" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-115" value="save_ride_history(user,ride)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1780" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-119" target="JvuicFKpDqCHILleZ89V-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1275" y="1910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="1910" />
+              <mxPoint x="335" y="1910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-119" value="save_payment_history(user , ride)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-467.5" y="1860" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-121" target="JvuicFKpDqCHILleZ89V-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1276.111111111111" y="1990.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-121" value="ride.trip_summary()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="2005" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-123" value="loop breaks and back to menu&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="1780" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-127" target="JvuicFKpDqCHILleZ89V-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-127" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 19px; color: rgb(255, 6, 238);&quot;&gt;ride.take_payment()&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="1530" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-128" target="JvuicFKpDqCHILleZ89V-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-128" target="JvuicFKpDqCHILleZ89V-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-128" value="&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;if fare &amp;lt; wallet then it returns true&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;else asked to recharge&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="1440" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-132" target="JvuicFKpDqCHILleZ89V-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-132" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 16px; color: rgb(255, 0, 203);&quot;&gt;save_ride_history(user,ride)&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1780" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-135" target="JvuicFKpDqCHILleZ89V-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1945" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1945" y="1810" />
+              <mxPoint x="1945" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-135" value="&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;Creates a history folder&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;automatically and saves the trip summary in it&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="1765" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-138" target="JvuicFKpDqCHILleZ89V-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-138" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 16px; color: rgb(255, 0, 203);&quot;&gt;save_payment_&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 16px; color: rgb(255, 0, 203);&quot;&gt;history(user,ride)&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1277.5" y="1880" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-139" target="JvuicFKpDqCHILleZ89V-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2025" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2025" y="1910" />
+              <mxPoint x="2025" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-139" value="&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;Creates a Payment history folder&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;automatically and saves date,time,amount in it&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="1865" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-142" target="JvuicFKpDqCHILleZ89V-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-142" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 8, 238); font-size: 14px;&quot;&gt;ride.trip_summary&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2005" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-143" value="&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;Shows ride summary after&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;&amp;nbsp;payment depending upon&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#3108ff&quot;&gt;&lt;i&gt;&amp;nbsp;the object created&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="1990" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-147" target="JvuicFKpDqCHILleZ89V-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1165" y="1340" as="targetPoint" />
+            <mxPoint x="1595" y="1610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvuicFKpDqCHILleZ89V-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1645" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-147" value="Yes" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="1570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-149" value="No" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="1570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-155" value="Double confirmation if the user wants to pay and this recharge loop runs as long as the fare&amp;lt;wallet&amp;nbsp; or the user types no then iot returns false" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="1670" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-156" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 43px; color: rgb(255, 24, 224);&quot;&gt;FUNCTIONS&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1287.5" y="250" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-158" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 43px; color: rgb(31, 6, 255);&quot;&gt;FUNCTIONS&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 43px; color: rgb(31, 6, 255);&quot;&gt;DEFINITIONS&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1607.5" y="230" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JvuicFKpDqCHILleZ89V-161" value="&lt;font color=&quot;#ff18e0&quot;&gt;&lt;span style=&quot;font-size: 43px;&quot;&gt;&lt;b&gt;&lt;u&gt;MAIN LOOP&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="100" width="250" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
