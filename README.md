@@ -24,13 +24,16 @@ ride_booking/
 │
 ├── history/ (Auto generated to store ride histories)
 ├── Payment history/ (Auto generated to store ride histories)
-├── README.md
 ├── history
 ├── main.py
 ├── menu.py
+├── README.md
 ├── ride.py
+├── RIDE_BOOK_APP_LOGIC_FLOW.drawio
+├── RIDE_BOOK_APP_LOGIC_FLOW.drawio.png
 ├── user.py
-└── validation.py
+├── validation.py
+└── wallet.py
 ```
 ---
 
