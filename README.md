@@ -22,13 +22,15 @@ This project also uses text file handling to store a user’s ride history.
 ```
 ride_booking/
 │
-├── main.py
-├── user.py
-├── ride.py
-├── vehicle.py
-├── validation.py
+├── history/ (Auto generated to store ride histories)
+├── Payment history/ (Auto generated to store ride histories)
 ├── README.md
-└── history/ (Auto generated to store ride histories)
+├── history
+├── main.py
+├── menu.py
+├── ride.py
+├── user.py
+└── validation.py
 ```
 ---
 
