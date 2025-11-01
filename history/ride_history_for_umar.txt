@@ -1,0 +1,10 @@
+
+===== Ride #1 =====
+
+Trip Summary:
+Rider Name      : umar
+Vehicle Type    : Car
+Distance        : 10 km
+Final Fare Paid : Rs.250
+Payment Status  : Completed
+
