@@ -1,0 +1,14 @@
+
+
+### **.gitignore**
+
+```gitignore
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Runtime generated ride history files
+history/*
