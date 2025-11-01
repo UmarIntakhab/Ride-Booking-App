@@ -1,6 +1,7 @@
 from ride import CarRide,BikeRide,AutoRide
 from validation import distance_validation
 from history import save_ride_history ,save_payment_history,ride_history,payment_history
+from wallet import add_money_to_wallet_user_input as add_money
 import os
 os.makedirs("history" ,exist_ok=True)
 os.makedirs("Payment history" ,exist_ok=True)
@@ -91,22 +92,8 @@ def wallet_open(user):
                     if add == 'y': #if yes
                         #region 3rd Loop to verify user entered an integer and runs until he does so
                         while True:
-                            # region Try block to check user input is int
-                            try:
-                                # code below 👇 is just to make it visually attractive
-                                print("\n")
-                                print("-" * 50)
-                                print("\t\t\t\tTRANSFERRING MONEY")
-                                print("-" * 50)
-                                print("\n")
-                                # code above 👆 is just to make it visually attractive
-                                amount = int(input("How much money to add? : ")) #asks user to enter amount of money
-                                user.add_money(amount) #calles object function to add money
-                                break #3rd loop breaks here
-                            except ValueError:
-                                print("Money should be in numbers") #if input is anything but integer it restarts 3rd loop)
-                            # endregion
-                        #endregion
+                            if add_money(user):
+                                break
                         break #2nd loop breaks here as user wants to add money and it has happened now
                     elif add == 'n': #if user selects not to add money
                         print("Leaving Wallet.....")
@@ -119,21 +106,8 @@ def wallet_open(user):
             elif option == 2:
                 #region 2nd Main Loop to continue looping if money is not int
                 while True:
-                    #region Try block to check user enter money as int
-                    try:
-                        # code below 👇 is just to make it visually attractive
-                        print("\n")
-                        print("-" * 50)
-                        print("\t\t\t\tTRANSFERRING MONEY")
-                        print("-" * 50)
-                        print("\n")
-                        # code above 👆 is just to make it visually attractive
-                        amount = int(input("How much money to add? : ")) #asks to add oney
-                        print("\n")
-                        user.add_money(amount) #adds money to user wallet
-                        break #breaks 2nd loop if the user typed an integer
-                    except ValueError:
-                        print("Money should be in numbers") #if input is anything but integer it restarts 2nd loop)
+                    if add_money(user):
+                        break
                     #endregion
                 break #main loop breaks here as user has decided how much money to add we go back to menu
                 #endregion
@@ -213,3 +187,5 @@ def menu(user):
         #endregion
     #endregion
 #endregion
+
+

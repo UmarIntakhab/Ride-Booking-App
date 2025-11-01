@@ -8,3 +8,43 @@ Distance        : 10 km
 Final Fare Paid : Rs.250
 Payment Status  : Completed
 
+
+===== Ride #2 =====
+
+Trip Summary:
+Rider Name      : umar
+Vehicle Type    : Car
+Distance        : 10 km
+Final Fare Paid : Rs.250
+Payment Status  : Completed
+
+
+===== Ride #3 =====
+
+Trip Summary:
+Rider Name      : umar
+Vehicle Type    : Car
+Distance        : 10 km
+Final Fare Paid : Rs.250
+Payment Status  : Completed
+
+
+===== Ride #4 =====
+
+Trip Summary:
+Rider Name      : umar
+Vehicle Type    : Car
+Distance        : 10 km
+Final Fare Paid : Rs.250
+Payment Status  : Completed
+
+
+===== Ride #5 =====
+
+Trip Summary:
+Rider Name      : umar
+Vehicle Type    : Car
+Distance        : 10 km
+Final Fare Paid : Rs.250
+Payment Status  : Completed
+
